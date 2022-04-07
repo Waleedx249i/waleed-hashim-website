@@ -3,6 +3,7 @@
     margin: 0;
     font-family: 'Itim', cursive;
 }
+a{text-decoration: none;}
 
 .background {
     background-color: #12181B;
