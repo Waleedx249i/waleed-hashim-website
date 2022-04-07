@@ -78,7 +78,10 @@
 .restart {
     background-color: #498AFB;
 }
+#exit {
+background-color:#E40000;
 
+}
 #reset {
-    background-color: #FF3860;
+    background-color: #3C87E8;
 }
