@@ -51,11 +51,11 @@ a{text-decoration: none;}
 }
 
 .playerX {
-    color: #09C372;
+    color: #E40000;
 }
 
 .playerO {
-    color: #498AFB;
+    color: #CB3535;
 }
 
 .controls {
@@ -80,8 +80,10 @@ a{text-decoration: none;}
     background-color: #498AFB;
 }
 #exit {
-background-color:#E40000;
-
+background-color:#E40000;}
+#exit a{
+text-decoration: none;
+color: white;
 }
 #reset {
     background-color: #3C87E8;
