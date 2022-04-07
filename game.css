@@ -1,7 +1,7 @@
 * {
     padding: 0;
     margin: 0;
-    font-family: 'Itim', cursive;
+    font-family: , cursive;
 }
 a{text-decoration: none;}
 
@@ -24,6 +24,7 @@ a{text-decoration: none;}
     text-align: center;
     margin-top: 1em;
     margin-bottom: 1em;
+ font-family: 'Itim', cursive;
 }
 
 .hide {
@@ -63,7 +64,8 @@ a{text-decoration: none;}
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-top: 1em;
+    margin-top:0.5em;
+    font-family: 'Itim', cursive;
 }
 
 .controls button {
@@ -74,14 +76,18 @@ a{text-decoration: none;}
     font-size: 20px;
     margin-left: 1em;
     cursor: pointer;
+   font-family: 'Itim', cursive;
 }
 
 .restart {
+ font-family: 'Itim', cursive;
     background-color: #498AFB;
 }
 #exit {
+ font-family: 'Itim', cursive;
 background-color:#E40000;}
 #exit a{
+ font-family: 'Itim', cursive;
 text-decoration: none;
 color: white;
 }
